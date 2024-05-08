@@ -1,1 +1,2 @@
 library(mice)
+library(knitr)
